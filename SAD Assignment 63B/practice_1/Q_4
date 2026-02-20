@@ -1,0 +1,7 @@
+
+void main() {
+  double p = 1000.0, t = 2.0, r = 5.0;
+
+  double simple_interest = (p * t * r) / 100;
+  print(simple_interest);
+}

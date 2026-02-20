@@ -1,0 +1,9 @@
+
+void main() {
+  String fullName = "Rumana Islam Simla ";
+  String fullNamewithoutwhitespaces = fullName.replaceAll(" ", "");
+  print(fullNamewithoutwhitespaces);
+}
+
+
+
